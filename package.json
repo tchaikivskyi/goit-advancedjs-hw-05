@@ -5,14 +5,14 @@
   "main": "index.js",
   "scripts": {
     "start": "tsc -w",
-    "build": "tsc"
+    "build": "tsc --base=/goit-advancedjs-hw-05/"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tchaikivskyi/goit-advancedjs-hw-05.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Taras Chaikivskyi <chaikivskyi.t@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/tchaikivskyi/goit-advancedjs-hw-05/issues"
