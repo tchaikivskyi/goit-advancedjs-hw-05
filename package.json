@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "tsc -w",
-    "build": "tsc --base=/goit-advancedjs-hw-05/"
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
